@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="778ac6" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-76146fbb:16f8f1ef969:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>

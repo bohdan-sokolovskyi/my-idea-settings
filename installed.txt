@@ -1,0 +1,14 @@
+GrepConsole
+String Manipulation
+aws.toolkit
+com.chrisrm.idea.MaterialThemeUI
+com.fwdekker.randomness
+com.intellij.kubernetes
+com.mallowigi
+com.vermouthx.idea
+izhangzhihao.rainbow.brackets
+mobi.hsz.idea.gitignore
+net.seesharpsoft.intellij.plugins.csv
+org.jetbrains.kotlin
+some.awesome
+zielu.gittoolbox
